@@ -6,7 +6,7 @@ Related project: [React Bootstrap](https://github.com/react-bootstrap/react-boot
 
 ## Components
 
-I think not all components should be implemented by React.
+I don't think all components should be implemented by React.
 
 For example, implement a `Button` component seems meaningless, as we can easily using Bootstrap classes to styling our button.
 
