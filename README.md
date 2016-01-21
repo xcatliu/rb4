@@ -15,3 +15,4 @@ Here is a list of which components should be implemented by React Bootstrap 4:
 Component | Should be Implemented | Reasons
 --------- | --------------------- | -------
 Button    | :x:                   |
+Modal     | :white_check_mark:    |
