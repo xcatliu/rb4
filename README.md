@@ -6,13 +6,13 @@ Related project: [React Bootstrap](https://github.com/react-bootstrap/react-boot
 
 ## Components
 
-I don't think all components should be implemented by React.
+Not all Bootstrap components should be built by React.
 
-For example, implement a `Button` component seems meaningless, as we can easily using Bootstrap classes to styling our button.
+For example, implement a `Button` component seems meaningless, as we can easily using Bootstrap classes to styling our buttons.
 
-Here is a list of which components should be implemented by React Bootstrap 4:
+Here is a list of components we offered:
 
-Component | Should be Implemented | Reasons
---------- | --------------------- | -------
-Button    | :x:                   |
-Modal     | :white_check_mark:    |
+Component | Implemented | Remarks
+--------- | ----------- | -------
+Button    | :x:         |
+Modal     | :white_check_mark: |
