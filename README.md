@@ -8,9 +8,9 @@ Related project: [React Bootstrap](https://github.com/react-bootstrap/react-boot
 
 Not all Bootstrap components should be built by React.
 
-For example, implement a `Button` component seems meaningless, as we can easily using Bootstrap classes to styling our buttons.
+For example, implementing a `Button` component seems meaningless, as we can easily use Bootstrap classes to style our buttons.
 
-Here is a list of components we offered:
+Here is a list of components we offer:
 
 Component | Implemented or not | Remarks
 --------- | ------------------ | -------
