@@ -12,7 +12,7 @@ For example, implement a `Button` component seems meaningless, as we can easily 
 
 Here is a list of components we offered:
 
-Component | Implemented | Remarks
---------- | ----------- | -------
-Button    | :x:         |
+Component | Implemented or not | Remarks
+--------- | ------------------ | -------
+Button    | :x:                |
 Modal     | :white_check_mark: |
